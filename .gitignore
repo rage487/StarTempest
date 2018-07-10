@@ -73,7 +73,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/StarTempest/Maps/TestZoo.umap
-Content/StarTempest/Characters/PlayerShip/BP_PlayerShip.uasset
-Content/StarTempest/Characters/FodderParent/BP_FodderAI.uasset
-Content/StarTempest/Characters/Enemies/Kinetic/Spitter/BP_SpitterAI.uasset
